@@ -11,6 +11,7 @@ gem 'rails', '~> 5.0.2'
 gem 'bcrypt', git: 'https://github.com/codahale/bcrypt-ruby.git', :require => 'bcrypt'
 gem 'will_paginate', '3.1.5'
 gem 'bootstrap-will_paginate', '0.0.10'
+gem 'rails-controller-testing'
 # Use sqlite3 as the database for Active Record
 
 # Use Puma as the app server
